@@ -1,0 +1,8 @@
+C:\Users\AkashVikas\source\repos\KthNode\KthNode\bin\Debug\KthNode.exe.config
+C:\Users\AkashVikas\source\repos\KthNode\KthNode\bin\Debug\KthNode.exe
+C:\Users\AkashVikas\source\repos\KthNode\KthNode\bin\Debug\KthNode.pdb
+C:\Users\AkashVikas\source\repos\KthNode\KthNode\obj\Debug\KthNode.csproj.AssemblyReference.cache
+C:\Users\AkashVikas\source\repos\KthNode\KthNode\obj\Debug\KthNode.csproj.SuggestedBindingRedirects.cache
+C:\Users\AkashVikas\source\repos\KthNode\KthNode\obj\Debug\KthNode.csproj.CoreCompileInputs.cache
+C:\Users\AkashVikas\source\repos\KthNode\KthNode\obj\Debug\KthNode.exe
+C:\Users\AkashVikas\source\repos\KthNode\KthNode\obj\Debug\KthNode.pdb
